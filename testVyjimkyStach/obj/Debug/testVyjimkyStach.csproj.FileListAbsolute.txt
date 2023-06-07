@@ -1,0 +1,10 @@
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\bin\Debug\testVyjimkyStach.exe.config
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\bin\Debug\testVyjimkyStach.exe
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\bin\Debug\testVyjimkyStach.pdb
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.csprojAssemblyReference.cache
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.Form1.resources
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.Properties.Resources.resources
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.csproj.GenerateResource.cache
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.csproj.CoreCompileInputs.cache
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.exe
+G:\PROgramovani\testVyjimkyStach\testVyjimkyStach\obj\Debug\testVyjimkyStach.pdb
